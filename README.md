@@ -11,7 +11,7 @@ Repo này bao gồm hai bài tập:
 
 ## **Cơ cấu Repo**
 ```plaintext
-repository-folder/
+Teko-hiring-devops-test/
 ├── 1_coding/                 # Chương trình Rate Limiting
 │   ├── go.mod
 │   ├── main.go               # Code bài 1
